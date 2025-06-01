@@ -1,5 +1,5 @@
 {
-    "extends": "@myapp/tsconfig/base.json",
+    "extends": "@sey-design-ui/tsconfig/base.json",
     "compilerOptions": {
         "baseUrl": "."
     },
